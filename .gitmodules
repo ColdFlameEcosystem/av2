@@ -1,3 +1,7 @@
 [submodule "kernel/source"]
 	path = kernel/source
 	url = https://github.com/ColdflameEcosystem/linux.git
+	branch = v6.8
+[submodule "development-tools"]
+	path = development-tools
+	url = git@github.com:ColdflameEcosystem/development-tools.git
